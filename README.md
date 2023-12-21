@@ -1,6 +1,5 @@
 # Ex09 Event Registration Web Application
-## Date:24/12/2023
-
+## Date:20.12.2023
 ## AIM:
 To design, develop and deploy a web application for event registration.
 
@@ -90,13 +89,10 @@ Figma
     <div style="width: 241px; height: 42px; left: 93px; top: 579px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 900; word-wrap: break-word">THANK YOU</div>
 </div>
 
-
-
-
 ```
 
 ## OUTPUT:
-
+![Alt text](<Screenshot (41).png>)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
